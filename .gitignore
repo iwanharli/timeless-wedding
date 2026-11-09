@@ -5,3 +5,6 @@ dist/
 .env.development
 test-results/
 db_dump.sql
+
+# hasil build / log / media besar: jangan di-commit
+public/assets/uploads/*.mp4
